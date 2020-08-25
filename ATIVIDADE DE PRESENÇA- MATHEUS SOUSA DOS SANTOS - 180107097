@@ -1,0 +1,16 @@
+git-init - Cria um repositório Git vazio ou reinicializa um existente
+git-clone - Clona um repositório em um novo diretório
+git-branch - Listar, criar ou excluir branches
+git-checkout - Alterne ramos ou restaure arquivos de árvore de trabalho
+git-fetch - Baixar objetos e referências de outro repositório
+git-pull - Buscar e integrar com outro repositório ou um branch local
+git-add - Adiciona o conteúdo do arquivo ao índice
+git-commit - Grava mudanças no repositório
+git-push - Atualizar referências remotas junto com objetos associados
+
+git fetch buscas as diferenças em relação ao ramo atual, mas não altera nada nesse branch. Já git pull faz o git fetch e faz o merge das diferenças.
+
+git commit
+#on branch master
+
+    
